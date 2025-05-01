@@ -1,0 +1,291 @@
+{
+    "ESPERA": [
+        "LISTO",
+        "VA",
+        "¿ÉSTA?",
+        "VALE",
+        "NO ESTÁ",
+        "¿ESA?",
+        "OKAY",
+        "OTRO",
+        "ESPERA"
+    ],
+    "¿QUE?": [
+        "NO ESTÁ",
+        "VA",
+        "LISTO",
+        "VALE",
+        "NO",
+        "OKAY",
+        "¿COMO?",
+        "ESTA",
+        "NO ES",
+        "ESPERA",
+        "OTRO",
+        "¿ÉSTA?",
+        "¿ESA?",
+        "¿QUE?"
+    ],
+    "NO": [
+        "OTRO",
+        "ESTA",
+        "NO ES",
+        "¿QUE?",
+        "¿ÉSTA?",
+        "ESPERA",
+        "OKAY",
+        "LISTO",
+        "¿COMO?",
+        "NO ESTÁ",
+        "¿ESA?",
+        "VA",
+        "NO"
+    ],
+    "OTRO": [
+        "NO ES",
+        "OKAY",
+        "VA",
+        "VALE",
+        "OTRO"
+    ],
+    "¿COMO?": [
+        "ESTA",
+        "OKAY",
+        "VA",
+        "VALE",
+        "LISTO",
+        "OTRO",
+        "NO",
+        "¿ESA?",
+        "NO ESTÁ",
+        "¿ÉSTA?",
+        "NO ES",
+        "¿QUE?",
+        "¿COMO?"
+    ],
+    "LISTO": [
+        "VA",
+        "OKAY",
+        "ESTA",
+        "VALE",
+        "¿QUE?",
+        "¿ÉSTA?",
+        "¿ESA?",
+        "ESPERA",
+        "¿COMO?"
+    ],
+    "¿ÉSTA?": [
+        "ESTA",
+        "¿ÉSTA?"
+    ],
+    "ESTA": [
+        "ESPERA",
+        "¿COMO?",
+        "NO ESTÁ",
+        "¿ÉSTA?",
+        "VA",
+        "LISTO",
+        "OKAY",
+        "NO",
+        "¿ESA?",
+        "OTRO",
+        "ESTA"
+    ],
+    "NO ESTÁ": [
+        "OKAY",
+        "NO ESTÁ"
+    ],
+    "OKAY": [
+        "LISTO",
+        "¿COMO?",
+        "ESPERA",
+        "¿ESA?",
+        "NO",
+        "NO ES",
+        "¿ÉSTA?",
+        "OKAY"
+    ],
+    "VALE": [
+        "OTRO",
+        "ESPERA",
+        "VA",
+        "¿ÉSTA?",
+        "¿COMO?",
+        "¿ESA?",
+        "NO",
+        "NO ES",
+        "NO ESTÁ",
+        "VALE"
+    ],
+    "VA": [
+        "VALE",
+        "NO",
+        "¿QUE?",
+        "LISTO",
+        "ESTA",
+        "¿COMO?",
+        "NO ES",
+        "VA"
+    ],
+    "NO ES": [
+        "ESTA",
+        "NO",
+        "OTRO",
+        "VA",
+        "LISTO",
+        "NO ESTÁ",
+        "¿QUE?",
+        "¿ESA?",
+        "¿ÉSTA?",
+        "NO ES"
+    ],
+    "¿ESA?": [
+        "OKAY",
+        "VALE",
+        "LISTO",
+        "ESPERA",
+        "¿ESA?"
+    ],
+    "OK": [
+        "DALE",
+        "¿DONDE?",
+        "BUENO",
+        "ÉSTA",
+        "BIEN",
+        "RÁPIDO",
+        "ESTÁ",
+        "YA ESTÁ",
+        "SÍ",
+        "OK"
+    ],
+    "¿DONDE?": [
+        "BUENO",
+        "BIEN",
+        "¿SEGURO?",
+        "RÁPIDO",
+        "SÍ",
+        "OTRA",
+        "¿CUAL?",
+        "YA ESTÁ",
+        "OK",
+        "NO SE",
+        "ÉSTA",
+        "DALE",
+        "ESTÁ",
+        "¿DONDE?"
+    ],
+    "BUENO": [
+        "¿CUAL?",
+        "¿DONDE?",
+        "RÁPIDO",
+        "BUENO"
+    ],
+    "ÉSTA": [
+        "OK",
+        "ÉSTA"
+    ],
+    "ESTÁ": [
+        "OTRA",
+        "NO SE",
+        "ESTÁ"
+    ],
+    "NO SE": [
+        "RÁPIDO",
+        "DALE",
+        "BIEN",
+        "SÍ",
+        "ÉSTA",
+        "ESTÁ",
+        "¿CUAL?",
+        "OTRA",
+        "NO SE"
+    ],
+    "RÁPIDO": [
+        "RÁPIDO"
+    ],
+    "¿CUAL?": [
+        "ESTÁ",
+        "NO SE",
+        "¿DONDE?",
+        "ÉSTA",
+        "BIEN",
+        "¿CUAL?"
+    ],
+    "SÍ": [
+        "OK",
+        "YA ESTÁ",
+        "ÉSTA",
+        "BUENO",
+        "NO SE",
+        "OTRA",
+        "¿CUAL?",
+        "¿SEGURO?",
+        "¿DONDE?",
+        "RÁPIDO",
+        "ESTÁ",
+        "BIEN",
+        "SÍ"
+    ],
+    "OTRA": [
+        "DALE",
+        "RÁPIDO",
+        "BIEN",
+        "SÍ",
+        "BUENO",
+        "ESTÁ",
+        "ÉSTA",
+        "YA ESTÁ",
+        "¿SEGURO?",
+        "OK",
+        "NO SE",
+        "¿DONDE?",
+        "¿CUAL?",
+        "OTRA"
+    ],
+    "BIEN": [
+        "SÍ",
+        "RÁPIDO",
+        "¿CUAL?",
+        "BUENO",
+        "YA ESTÁ",
+        "DALE",
+        "BIEN"
+    ],
+    "YA ESTÁ": [
+        "¿DONDE?",
+        "NO SE",
+        "OTRA",
+        "¿CUAL?",
+        "OK",
+        "ESTÁ",
+        "DALE",
+        "SÍ",
+        "ÉSTA",
+        "BIEN",
+        "YA ESTÁ"
+    ],
+    "DALE": [
+        "¿DONDE?",
+        "OTRA",
+        "¿SEGURO?",
+        "ÉSTA",
+        "OK",
+        "YA ESTÁ",
+        "RÁPIDO",
+        "ESTÁ",
+        "DALE"
+    ],
+    "¿SEGURO?": [
+        "ÉSTA",
+        "BIEN",
+        "NO SE",
+        "ESTÁ",
+        "YA ESTÁ",
+        "OTRA",
+        "¿CUAL?",
+        "SÍ",
+        "RÁPIDO",
+        "OK",
+        "¿SEGURO?"
+    ]
+}
