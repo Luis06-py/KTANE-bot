@@ -137,7 +137,7 @@ BOT: Suelta cuando haya un 1.
 - [ ] Módulo de Código Morse
 - [ ] Módulo de Secuencia de Cables
 - [ ] Módulo de Laberinto
-- [ ] Módulo de Módulo de Contraseñas
+- [ ] Módulo de Contraseñas
 - [ ] Módulo exigente de Perillas
 
 ## Licencia
