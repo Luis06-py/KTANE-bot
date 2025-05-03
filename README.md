@@ -147,7 +147,7 @@ Se usará el abecedario fonético (es decir, Alpha, Bravo, Charlie... pero en es
 	```
 
 ## Módulo de Código Morse
-- Comando: `módulo de Morse` o `módulo de Morse`
+- Comando: `módulo de Morse` o `módulo de morse`
 - Después de decir el comando se debe indicar la secuencia en código Morse, separando cada símbolo con la palabra **después**, por ejemplo:
 	- punto *después* punto línea *después* punto línea
 - **Nota** se aconseja dar cuatro palabras, esto es porque si se usan tres, es posible que haya coincidencias parecidas y se devuelve la primera
