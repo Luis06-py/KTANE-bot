@@ -1,11 +1,6 @@
 from modules.shared import shared_state
 # Módulo de ejemplo para el juego de la bomba
 # Este módulo contiene funciones de ejemplo que no hacen nada en particular.
-def palabraANumero(palabra):
-	listNumeros = ["cero", "uno", "dos", "tres", "cuatro", "cinco", "seis", "siete", "ocho", "nueve"]
-	if palabra.lower() in listNumeros:
-		return str(listNumeros.index(palabra.lower()))
-	return palabra[0].upper()
 
 def funcióndeEjemplo(texto):
 	"""Esta es una función de ejemplo que no hace nada."""

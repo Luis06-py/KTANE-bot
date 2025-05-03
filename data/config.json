@@ -1,1 +1,10 @@
-{"calib": true}
+{
+	"calib": true,
+	"símbolos":{
+		"QUEBEC": "1", "EURO": "2", "BRAVO MAYÚSCULA": "3", "TRIDENTE": "4", "OMEGA": "5", 
+		"ALFA": "6", "BIGOTE": "7", "PÁRRAFO": "8", "CARA": "9", "PIEZA": "10", 
+		"LAMBDA": "11", "ALFA ECO": "12", "BRAVO MINÚSCULA": "13", "NOVIEMBRE": "14", "CARLOS INVERTIDO": "15", 
+		"NOVIEMBRE MINÚSCULA": "16", "MUELLE": "17", "ESTRELLA BLANCA": "18", "CARLOS": "19", "ESTRELLA NEGRA": "20", 
+		"SÍMBOLO COMPLEJO": "21", "XILÓFONO": "22", "ROMEO": "23", "PREGUNTA": "24", "3": "25", 
+		"HOTEL": "26", "COPYTIGHT": "27"}
+}
