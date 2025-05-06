@@ -7,7 +7,7 @@ Este proyecto es un bot diseñado para asistir en el juego *Keep Talking and Nob
 - Interfaz fácil de usar.
 
 ## Requisitos
-- Python 3.8 o superior.
+- Python 3.10 o superior.
 - Librerías necesarias (ver archivo `requirements.txt`).
 
 ## Instalación
@@ -107,7 +107,7 @@ Se usará el abecedario fonético (es decir, Alpha, Bravo, Charlie... pero en es
 - En el caso de interrogaciones, se debe decir **"PREGUNTA"** al final.
 
 ### Módulo de cables complicados
-- Comando: `módulo de complicados.`
+- Comando: `módulo de complicados`
 - Se deben indicar las características del cable (*Estrella*, *Luz*, *Rojo* y/o *Azul*, si no tiene nada es *nada*) y después decir **después**.
 - Deben estar indicadas las baterías y los puertos.
 
@@ -147,7 +147,7 @@ Se usará el abecedario fonético (es decir, Alpha, Bravo, Charlie... pero en es
 	```
 
 ## Módulo de Código Morse
-- Comando: `módulo de Morse` o `módulo de morse`
+- Comando: `módulo de Morse`
 - Después de decir el comando se debe indicar la secuencia en código Morse, separando cada símbolo con la palabra **después**, por ejemplo:
 	- punto *después* punto línea *después* punto línea
 - **Nota** se aconseja dar cuatro palabras, esto es porque si se usan tres, es posible que haya coincidencias parecidas y se devuelve la primera
